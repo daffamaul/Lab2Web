@@ -8,5 +8,9 @@
 >Perbedaan dari keduanya adalah ketika di dalam sebuah tag `body` terdapat beberapa elemen `h1`, penggunaan `class` maupun `id` sangat diperlukan untuk menentukan _style_ diantara salah satunya.
 
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+![img_1](/img/after_1.jpg)
+![img_2](/img/after_3-1.jpg)
+![img_3](/img/after_3-2.jpg)
+>Dokumen HTML akan menampilkan _style_ mulai dari **inline style**, **internal style**, dan **eksternal style**
 
 4. Pada sebuah elemen HTML terdapat _ID_ dan _Class_, apabila masing-masing _selector_ tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! (`<p id="paragraf-1" class="text-paragraf"></p>`)
