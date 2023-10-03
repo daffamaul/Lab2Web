@@ -1,6 +1,8 @@
 # Lab2Web - Pertanyaan dan Tugas
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada _CSS Cheat Sheet_ yang diberikan pada file terpisah dari modul ini
+![before_1](/img/before_1.jpg)
+![after_1](/img/after_1.jpg)
 
 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro {...}`? berikan penjelasannya!
 
