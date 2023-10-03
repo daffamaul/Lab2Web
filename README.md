@@ -14,3 +14,5 @@
 >Dokumen HTML akan menampilkan _style_ mulai dari **inline style**, **internal style**, dan **eksternal style**
 
 4. Pada sebuah elemen HTML terdapat _ID_ dan _Class_, apabila masing-masing _selector_ tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! (`<p id="paragraf-1" class="text-paragraf"></p>`)
+![img_4](/img/after_4.jpg)
+>Hal tersebut diakibatkan oleh _specificity_ atau pembobotan selector. Untuk sebuah _elemen_ memiliki bobot 1, _class_ memiliki bobot 10, _id_ memiliki bobot 100, _inline_ memiliki bobot 100. 

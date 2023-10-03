@@ -25,7 +25,9 @@ nav a:hover {
     border: 0;
     color: #fff;
 }
-
+#paragraf-1 {
+    color: red;
+}
 /* Class Selector */
 .button {
     padding: 15px 20px;
@@ -42,4 +44,7 @@ nav a:hover {
 .img {
     display: block;
     margin: auto;
+}
+.text-paragraf {
+    color: pink;
 }
